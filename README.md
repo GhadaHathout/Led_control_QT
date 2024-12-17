@@ -57,7 +57,7 @@ The program ensures:
    - Use the Qt interface to control the LEDs.  
 
 ## **Video Demonstration**  
-You can see the project in action in this short demo video.
+You can see the project in action in this short demo video:https://www.veed.io/view/aafbafed-eb51-4847-82b9-a75ca32d241e?panel=share .
 
 ## **License**  
 This project is open-source and available under the **MIT License**.  
