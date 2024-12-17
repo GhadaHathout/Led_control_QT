@@ -59,10 +59,5 @@ The program ensures:
 ## **Video Demonstration**  
 You can see the project in action in this short demo video.
 
-
 ## **License**  
 This project is open-source and available under the **MIT License**.  
-
----
-
-Feel free to adjust any part of this template to fit your preferences! Let me know if you'd like me to expand further on any section. 😊
