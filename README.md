@@ -26,7 +26,15 @@ This project demonstrates how to control two LEDs connected to an Arduino board 
 - Intuitive interface with buttons to:  
    - Turn LED 1 ON/OFF.  
    - Adjust LED 2 brightness incrementally.  
-- Real-time updates of the LED states.  
+- Real-time updates of the LED states.
+  
+## **Video Demonstration**  
+You can see the project in action in this short demo video.
+
+
+
+
+https://github.com/user-attachments/assets/dc8a92c6-d4aa-4a8e-8792-fb0980280e03 
 
 ## **Code Explanation**  
 
@@ -56,12 +64,6 @@ The program ensures:
    - Ensure the Arduino is connected via USB.  
    - Use the Qt interface to control the LEDs.  
 
-## **Video Demonstration**  
-You can see the project in action in this short demo video.
 
-
-
-
-https://github.com/user-attachments/assets/dc8a92c6-d4aa-4a8e-8792-fb0980280e03
 
  
