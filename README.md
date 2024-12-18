@@ -64,6 +64,4 @@ You can see the project in action in this short demo video.
 
 https://github.com/user-attachments/assets/dc8a92c6-d4aa-4a8e-8792-fb0980280e03
 
-
-## **License**  
-This project is open-source and available under the **MIT License**.  
+ 
